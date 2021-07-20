@@ -1,1 +1,0 @@
-# Minimum-element-in-Array
